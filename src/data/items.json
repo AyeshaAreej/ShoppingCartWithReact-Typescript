@@ -7,20 +7,32 @@
     },
     {
       "id": 2,
-      "name": "Computer",
+      "name": "Laptop",
       "price": 1199,
       "imgUrl": "/imgs/computer.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "Earbuds",
+      "price": 500,
+      "imgUrl": "/imgs/earpods.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "name": "Headsets",
+      "price": 4000,
+      "imgUrl": "/imgs/headsets.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "price": 1000,
+      "imgUrl": "/imgs/tablet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Phone",
+      "price": 1000,
+      "imgUrl": "/imgs/phone.jpg"
     }
   ]
